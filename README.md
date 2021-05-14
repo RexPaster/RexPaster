@@ -12,9 +12,6 @@
 ```javascript
 const Rex = {
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "photography"],
-    },
-    funFact: "I cant think of any."
 };
 ```
 
