@@ -10,7 +10,7 @@
 const rex = {
   pronouns: "He" | "Him",
   code: [Matlab, Java, Python],
-  tools: [OVRC, Microsoft Entra],
+  tools: [VS Code, OVRC, Microsoft Entra],
   architecture: ["extroverted", "sustainability-focused", "community-driven"],
 }
 ```
