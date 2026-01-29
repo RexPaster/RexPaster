@@ -1,4 +1,4 @@
-<h2> Hi, I'm Rex Paster! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Rex Paster! </h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em></br>Electrical Engineer at <a href="https://washu.edu/">Washington University in St. Louis</a><img src="https://marcomm.washu.edu/app/themes/antipasto/assets/img/favicon/favicon-32x32.png" width="20"> 
 </em></p>
@@ -8,7 +8,7 @@
 
 
 ```javascript
-const thai = {
+const rex = {
   pronouns: "He" | "Him",
   code: [Matlab, Java, Python],
   tools: [OVRC, Microsoft Entra],
