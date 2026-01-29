@@ -11,7 +11,7 @@ const rex = {
   pronouns: "He" | "Him",
   code: [Matlab, Java, Python],
   tools: [OVRC, VS-Code, Microsoft Entra],
-  architecture: ["extroverted", "sustainability-focused", "community-driven"],
+  architecture: ["extroverted", "sustainability-oriented", "community-driven"],
 }
 ```
 
