@@ -1,5 +1,5 @@
 <h2> Hi, I'm Rex Paster! </h2>
-<p><em></br>Electrical Engineer at <a href="https://washu.edu/">Washington University in St. Louis</a><img src="https://marcomm.washu.edu/app/themes/antipasto/assets/img/favicon/favicon-32x32.png" width="20"> 
+<p><em><img src="https://marcomm.washu.edu/app/themes/antipasto/assets/img/favicon/favicon-32x32.png" width="20"> </br>Electrical Engineer at <a href="https://washu.edu/">Washington University in St. Louis</a>
 </em></p>
 
 [![Linkedin: RexPaster](https://img.shields.io/badge/-RexPaster-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RexPaster/)](https://www.linkedin.com/in/RexPaster/)
