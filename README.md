@@ -14,7 +14,3 @@ const rex = {
   architecture: ["extroverted", "sustainability-oriented", "community-driven"],
 }
 ```
-
-<em><b>I love connecting with different people</b> so feel free to say hi :)</em>
-
----
