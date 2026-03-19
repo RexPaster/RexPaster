@@ -9,7 +9,7 @@
 ```javascript
 const rex = {
   pronouns: "He" | "Him",
-  code: [Matlab, Java, Python],
+  code: [Matlab, Java, Python, SystemVerilog],
   tools: [OVRC, VS-Code, Microsoft Entra],
   architecture: ["extroverted", "sustainability-oriented", "community-driven"],
 }
