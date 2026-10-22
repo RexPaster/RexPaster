@@ -9,8 +9,8 @@
 ```javascript
 const rex = {
   pronouns: "He" | "Him",
-  code: [Matlab, Java, Python, SystemVerilog],
-  tools: [OVRC, VS-Code, Microsoft Entra],
+  code: [Matlab, Java, Python, SystemVerilog, C, RISC-V],
+  tools: [KiCAD, P-Spice, OVRC, VS-Code, Microsoft Entra],
   architecture: ["extroverted", "sustainability-oriented", "community-driven"],
 }
 ```
